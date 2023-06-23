@@ -1,0 +1,56 @@
+# Compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment files
+venv/
+env/
+
+# Logs and output files
+*.log
+*.pot
+*.pyc
+*.swp
+
+# Local configuration files
+/.env
+
+# Operating System generated files
+.DS_Store
+Thumbs.db
+
+# Cache files
+/cache/
+
+# Project distribution directory
+/dist/
+
+# Documentation directory
+/docs/_build/
+
+# Test tool generated files
+/nosetests.xml
+/coverage/
+/.coverage
+/.pytest_cache/
+
+# Build tool generated files
+/build/
+/*.egg-info/
+/*.egg
+/eggs/
+/lib/
+/libs/
+/parts/
+/sdist/
+/var/
+*.egg-info/
+
+# Integrated Development Environment (IDE) directory
+/.idea/
+
+# Installed dependencies and packages
+/venv/
+/.venv/
+/pip-selfcheck.json
